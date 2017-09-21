@@ -6,17 +6,24 @@
 }
 #header{
     height: 100px;
+    background-color: #ccc;
     margin-bottom: 50px;
 }
 #main{
     width: 620px;
     height: 500px;
     margin-bottom: 50px;
+    background-color: #ccc;
+    float: left
 }
 #sub{
     width: 300px;
     height: 500px;
+    float: right;
+    background-color: #ccc;
 }
 #footer{
     height: 100px;
+    background-color: #ccc;
+    clear: both;
 }
